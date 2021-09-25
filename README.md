@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Fun and Exciting Projects 🤪
 - 🤔 I’m looking for help with becoming better, i guess 🤔
-- 📫 How to reach me: [email](salomondiei08@gmail.com)
+- 📫 How to reach me: [My Email](mailto:salomondiei08@gmail.com)
 - ⚡ Fun fact: I love Coding 😎😎😎
 
