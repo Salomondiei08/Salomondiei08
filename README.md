@@ -15,8 +15,6 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
 ### 🔬 Research Interests
 
 - 🧠 **Large Language Models (LLMs)** & Agentic AI Systems
@@ -24,8 +22,6 @@
 - 🔍 **Retrieval-Augmented Generation (RAG)**
 - 👁️ **Computer Vision** & Natural Language Processing
 - 🚀 **Applied AI** & Real-world AI Applications
-
-Currently researching at **DICE Lab, Korea University of Technology and Education**
 
 ---
 
@@ -96,16 +92,6 @@ Currently researching at **DICE Lab, Korea University of Technology and Educatio
 <div align="center">
   
 ![](https://github-profile-trophy.vercel.app/?username=Salomondiei08&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
-### 📈 Activity Graph
-
-<div align="center">
-  
-[![Salomon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Salomondiei08&theme=tokyo-night&hide_border=true)](https://github.com/Salomondiei08)
 
 </div>
 
