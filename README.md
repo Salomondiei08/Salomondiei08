@@ -1,7 +1,7 @@
 <h1 align="center">Salomon Diei</h1>
 <p align="center"><strong>AI Researcher & Engineer</strong></p>
 <p align="center">
-Building LLM agents and reliable agentic systems for real-world applications.\nI am also the dad of <a href= "https://github.com/jaythehardcoder"> <@jaythehardcoder/a>
+Building LLM agents and reliable agentic systems for real-world applications.<br>I am also the dad of <a href= "https://github.com/jaythehardcoder"> <@jaythehardcoder/a>
 </p>
 
 <p align="center">
